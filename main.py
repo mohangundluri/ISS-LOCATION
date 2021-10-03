@@ -9,7 +9,7 @@ MY_LNG = 78.7999762
 
 NOW_HOUR = dt.datetime.now().hour
 MY_EMAIL = ""
-MY_PASSWORD = "Mentor@123"
+MY_PASSWORD = "*******"
 
 
 parametes = {
